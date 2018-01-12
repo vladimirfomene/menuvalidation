@@ -1,4 +1,10 @@
-package com.shopify.menuvalidation.BackendService.domain;
+/**
+ * This class represents of the items
+ * in our menu with their attributes.
+ * @author vladimirfomene
+ */
+
+package com.shopify.menuvalidation.domain;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

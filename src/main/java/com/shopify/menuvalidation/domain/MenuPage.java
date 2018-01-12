@@ -1,4 +1,4 @@
-package com.shopify.menuvalidation.BackendService.domain;
+package com.shopify.menuvalidation.domain;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;

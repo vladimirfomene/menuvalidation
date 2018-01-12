@@ -1,4 +1,10 @@
-package com.shopify.menuvalidation.BackendService.domain;
+/**
+ * This class represents the pagination
+ * attribute of a menu page with its attributes.
+ * @author vladimirfomene
+ */
+
+package com.shopify.menuvalidation.domain;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
